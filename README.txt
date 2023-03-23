@@ -1,0 +1,1 @@
+If you want this website to work, make sure you install the LATEST files and swap the current ones with the new ones. !!TO RUN you must go inside your folders and double click the index file, this will open a tab, allowing you to use it!! Audio file appears not to be working as of now. might fix when im not lazy.
